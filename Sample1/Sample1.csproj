@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lesson2_2</StartupObject>
+    <StartupObject>Lesson3_2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -41,8 +41,13 @@
   <ItemGroup>
     <Compile Include="Lesson2_1.cs" />
     <Compile Include="Lesson2_2.cs" />
+    <Compile Include="Lesson3_1.cs" />
+    <Compile Include="Lesson3_2.cs" />
     <Compile Include="Sample1.cs" />
     <Compile Include="Sample3.cs" />
+    <Compile Include="Sample3_1.cs" />
+    <Compile Include="Sample3_2.cs" />
+    <Compile Include="Sample3_3.cs" />
     <Compile Include="Sample4.cs" />
   </ItemGroup>
   <ItemGroup>
