@@ -8,8 +8,6 @@ class Sample3_3
         Form fm = new Form();
         fm.Text = "サンプル";
 
-        int w;
-        w = 100;
 
         PictureBox pb = new PictureBox();
         pb.Image = Image.FromFile("C:\\image\\image2.jpg");

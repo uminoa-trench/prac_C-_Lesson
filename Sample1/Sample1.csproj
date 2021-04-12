@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Lesson4_2</StartupObject>
+    <StartupObject>Sample8_4_2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -45,6 +45,13 @@
     <Compile Include="Lesson3_2.cs" />
     <Compile Include="Lesson4_1.cs" />
     <Compile Include="Lesson4_2.cs" />
+    <Compile Include="Lesson5_1.cs" />
+    <Compile Include="Lesson6_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Lesson6_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Sample1.cs" />
     <Compile Include="Sample3.cs" />
     <Compile Include="Sample3_1.cs" />
@@ -55,6 +62,77 @@
     <Compile Include="Sample4_2.cs" />
     <Compile Include="Sample4_3.cs" />
     <Compile Include="Sample4_4.cs" />
+    <Compile Include="Sample5_1.cs" />
+    <Compile Include="Lesson5_2.cs" />
+    <Compile Include="Sample5_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample6_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample6_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample6_2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample6_2_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_3_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_3_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_5.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_6.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample7_6_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_1_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_2_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_2_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample8_4_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="template.cs" />
   </ItemGroup>
   <ItemGroup>
