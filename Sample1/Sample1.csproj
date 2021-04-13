@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Sample8_4_2</StartupObject>
+    <StartupObject>Sample10_4_1</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <None Include="App.config" />
@@ -53,6 +53,18 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Sample1.cs" />
+    <Compile Include="Sample10_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample10_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample10_4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample10_4_1.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="Sample3.cs" />
     <Compile Include="Sample3_1.cs" />
     <Compile Include="Sample3_2.cs" />
@@ -131,6 +143,9 @@
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Sample8_4_2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sample9_ex.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="template.cs" />
